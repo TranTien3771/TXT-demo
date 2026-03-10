@@ -1,0 +1,1 @@
+{"name":"Local: PACKAGES","url":"d:\\project\\20260108\\PACKAGES.cpp","tests":[{"id":1767832891413,"input":"3\n6 14 \n8 4 6 1 7 2 \n8 9 \n8 7 6 5 4 3 2 1 \n9 9 \n5 5 5 2 3 4 4 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\project\\20260108\\PACKAGES.cpp","group":"local","local":true}

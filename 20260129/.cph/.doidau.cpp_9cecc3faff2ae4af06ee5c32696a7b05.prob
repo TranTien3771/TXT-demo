@@ -1,0 +1,1 @@
+{"name":"Local: doidau","url":"d:\\project\\20260129\\doidau.cpp","tests":[{"id":1769647265144,"input":"4\n1 2 3 4","output":""},{"id":1769647787281,"input":"6\n57 68 44 77 54 93","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\project\\20260129\\doidau.cpp","group":"local","local":true}

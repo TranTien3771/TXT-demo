@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1758187562 source:c:\dev-cpp\project\chaytest\code1.cpp
+	<bits/stdc++.h>
+
+1758187562 source:c:\dev-cpp\project\chaytest\code2.cpp
+	<bits/stdc++.h>
+
+1584205420 source:d:\project\testtest\main.cpp
+	<iostream>
+
+1758187597 source:c:\dev-cpp\project\chaytest\sotest.cpp
+	<bits/stdc++.h>
+

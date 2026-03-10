@@ -1,0 +1,1 @@
+{"name":"Local: HP","url":"d:\\project\\20260122\\HP.cpp","tests":[{"id":1769044812632,"input":"3 123456\n102465931 87760828 15608373 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\project\\20260122\\HP.cpp","group":"local","local":true}
